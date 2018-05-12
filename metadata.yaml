@@ -1,0 +1,68 @@
+_repo: Autobiography-of-Countess-Tolstoy_38027
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Koteliansky, S. S. (Samuel Solomonovitch)
+    aliases:
+    - Koteliansky, S.S.
+    - Koteliansky, Samuel Solomonovich
+    - Koteliansky, Samuel Solomonovitch
+    - Котелянский, Самуел Соломонович
+    birthdate: 1882
+    deathdate: 1955
+    gutenberg_agent_id: '4566'
+    url: http://www.gutenberg.org/2009/agents/4566
+    wikipedia: http://en.wikipedia.org/wiki/S._S._Koteliansky
+  - agent_name: Woolf, Leonard
+    alias: Woolf, Leonard Sidney
+    birthdate: 1880
+    deathdate: 1969
+    gutenberg_agent_id: '4565'
+    url: http://www.gutenberg.org/2009/agents/4565
+    wikipedia: http://en.wikipedia.org/wiki/Leonard_Woolf
+covers:
+- cover_type: archival
+  image_path: 38027-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Tolstaia, S. A. (Sofia Andreevna)
+    aliases:
+    - Tolstoj, Sonja
+    - Tolstoy, Sophie Andreevna
+    - Tolstoy, Sonya
+    - Tolstaya, Sofia
+    - Толстая, С. А. (Софья Андреевна)
+    - Tolstaia, Sofia Andreevna Bers, grafinia
+    - Bers, Sofya Andreyevna
+    - Tolstoi, Sophie
+    - Bers, Sofia Andreyevna
+    birthdate: 1844
+    deathdate: 1919
+    gutenberg_agent_id: '39209'
+    url: http://www.gutenberg.org/2009/agents/39209
+  editor:
+    agent_name: Spiridonov, V. S. (Vasilii Spiridonovich)
+    aliases:
+    - Спиридонов, В. С. (Василий Спиридонович)
+    - Spiridonov, Vasilii Spiridonovich
+    birthdate: 1878
+    deathdate: 1952
+    gutenberg_agent_id: '38666'
+    url: http://www.gutenberg.org/2009/agents/38666
+description: ''
+gutenberg_issued: '2011-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38027'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Novelists, Russian -- 19th century -- Biography'
+- !lcsh 'Women -- Russia -- 19th century -- Biography'
+- !lcsh 'Tolstoy, Leo, graf, 1828-1910'
+- !lcsh 'Tolstaia, S. A. (Sofia Andreevna), 1844-1919'
+title: Autobiography of Countess Tolstoy
+url: http://www.gutenberg.org/ebooks/38027
